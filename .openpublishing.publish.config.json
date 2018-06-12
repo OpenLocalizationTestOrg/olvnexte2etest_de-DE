@@ -18,6 +18,7 @@
       "version": 0
     }
   ],
+  "markdownEngineName": "markdig",
   "notification_subscribers": [],
   "branches_to_filter": [],
   "bilingual_type": "hover over",
