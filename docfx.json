@@ -1,0 +1,13 @@
+{
+  "build": {
+  "markdownEngineName": "markdig",
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ]
+      }
+    ]
+  }
+}
